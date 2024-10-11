@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://zubairkhan.vercel.app/](https://zubairkhan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://zubairkhan.vercel.app/](https://zubairbinshaukat.vercel.app/)
 
 - 📝 I regularly write articles on [https://zubairbinshaukat.blogspot.com/](https://zubairbinshaukat.blogspot.com/)
 
