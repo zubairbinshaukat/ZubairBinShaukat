@@ -8,8 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/zubairbinshaukt" target="blank"><img src="https://img.shields.io/twitter/follow/zubairbinshaukt?logo=twitter&style=for-the-badge" alt="zubairbinshaukt" /></a> </p>
 
-- I'm a 𝙈𝙐𝙎𝙇𝙄𝙈 (by Chance) but becoming a 𝙈𝙊𝙈𝙄𝙉 (by Choice)
-ان شاء اللّٰ
+- I'm a 𝙈𝙐𝙎𝙇𝙄𝙈 (by Chance) but becoming a 𝙈𝙊𝙈𝙄𝙉 (by Choice) ان شاء اللّٰہ
 
 - 🌱 I’m currently learning **Web Dev**
 
