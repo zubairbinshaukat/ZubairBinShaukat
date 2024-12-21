@@ -8,9 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/zubairbinshaukt" target="blank"><img src="https://img.shields.io/twitter/follow/zubairbinshaukt?logo=twitter&style=for-the-badge" alt="zubairbinshaukt" /></a> </p>
 
-- 🔭 I Just Finished [Open Cinema](https://opencinema.netlify.app/)
+- I'm a 𝙈𝙐𝙎𝙇𝙄𝙈 (by Chance) but becoming a 𝙈𝙊𝙈𝙄𝙉 (by Choice) ان شاء اللّٰہ
+ان شاء اللّٰ
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web Dev**
 
 - 👨‍💻 All of my projects are available at [https://zubairkhan.vercel.app/](https://zubairbinshaukat.vercel.app/)
 
