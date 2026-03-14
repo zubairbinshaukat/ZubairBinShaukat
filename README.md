@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/zubairbinshaukt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zubairbinshaukt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zubairbinshaukat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubairbinshaukat" height="30" width="40" /></a>
-<a href="https://fb.com/zubairbinshaukat0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zubairbinshaukat0" height="30" width="40" /></a>
+<a href="https://fb.com/zubairbinshaukat0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zubairbinshaukat" height="30" width="40" /></a>
 <a href="https://instagram.com/zubairbinshaukat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubairbinshaukat" height="30" width="40" /></a>
 </p>
 
