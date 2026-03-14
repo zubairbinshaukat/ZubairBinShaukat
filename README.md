@@ -14,7 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://zubairbinshaukat.vercel.app/](https://zubairbinshaukat.vercel.app/)
 
-- 📝 I regularly write articles on [https://zubairbinshaukat.blogspot.com/](https://zubairbinshaukat.blogspot.com/)
 
 - 💬 Ask me about **React**
 
