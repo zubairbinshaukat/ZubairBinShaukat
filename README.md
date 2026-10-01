@@ -55,7 +55,7 @@ My focus isn't a tool — it's the problem. I map the bottleneck, design the sys
 
 <p>
 <a href="https://linkedin.com/in/zubairbinshaukat"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn"/></a>&nbsp;
-<a href="https://twitter.com/zubairbinshaukt"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" alt="X / Twitter"/></a>&nbsp;
+<a href="https://twitter.com/zubyrdev"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" alt="X / Twitter"/></a>&nbsp;
 <a href="https://instagram.com/zubairbinshaukat"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="Instagram"/></a>&nbsp;
 <a href="https://github.com/zubairbinshaukat"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub"/></a>
 </p>
